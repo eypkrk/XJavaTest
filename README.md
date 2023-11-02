@@ -1,4 +1,4 @@
-# XJavaTest
+# XWebsiteJavaTest
 X web sitesini test ederken Java programlama dilini kullandım bunun yanında Selenium ve Junit kütüphanelerini destek aldım.
 
 Kendimi tekrar etmemek için class'lar oluşturup, bu class'lardan, inteface oluşturdum. 
